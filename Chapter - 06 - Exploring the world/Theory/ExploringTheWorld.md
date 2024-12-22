@@ -68,6 +68,7 @@ A:
 | Complexity | Simpler for small applications but can become complex as the application grows | Suitable for complex applications but introduces its own challenges |
 
 ![image](image.png)
+
 ---
 
 ### Q: Why do we need `useEffect Hook`?
