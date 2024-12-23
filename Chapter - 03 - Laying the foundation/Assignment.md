@@ -1,7 +1,3 @@
-Here's the updated document:  
-
----
-
 # Chapter 03 - Laying the Foundation  
 
 ## Topics  

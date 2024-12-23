@@ -1,6 +1,3 @@
-Here’s a restructured version of the README formatted for GitHub, including your complete content and a polished layout:
-
-```markdown
 # Namaste React Course
 
 ## Chapter 01 - Inception

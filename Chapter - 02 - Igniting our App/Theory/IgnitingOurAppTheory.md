@@ -119,8 +119,6 @@ A: `Hot Module Replacement` (HMR) is a feature in modern development tools that 
 - Retains application state during updates.
 - Improves developer productivity by providing immediate feedback.
 
-Here is an updated and slightly refined version of your content:
-
 ---
 
 ### Change Detection
